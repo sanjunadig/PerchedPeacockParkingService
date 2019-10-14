@@ -9,6 +9,8 @@ import com.example.sanjeev.model.ParkingRecord;
 @Service
 public class ParkingManagementService {
 
+	
+	
 	public List<ParkingRecord> getParkingSpaceAvailable(){
 		return new ArrayList<>();
 	}

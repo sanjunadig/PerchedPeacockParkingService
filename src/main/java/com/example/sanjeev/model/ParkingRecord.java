@@ -19,6 +19,7 @@ public class ParkingRecord {
 	private Long durationInMin; 
 	private Double amountInRs;
 	
+	
 	public String getVehicleNo() {
 		return vehicleNo;
 	}
